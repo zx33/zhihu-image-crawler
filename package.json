@@ -1,0 +1,29 @@
+{
+  "name": "zhihu-image-crawler",
+  "version": "1.0.0",
+  "description": "zhihu image crawler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zx33/zhihu-image-crawler.git"
+  },
+  "keywords": [
+    "zhihu",
+    "crawler",
+    "image"
+  ],
+  "author": "AndyBear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zx33/zhihu-image-crawler/issues"
+  },
+  "homepage": "https://github.com/zx33/zhihu-image-crawler#readme",
+  "dependencies": {
+    "async": "^2.4.0",
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
